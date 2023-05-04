@@ -1,0 +1,38 @@
+h1 {
+	font-family:serif;
+	text-align:center;
+	color:white;
+}
+
+html {
+	background-color:black;
+}
+
+p {
+	color:red;
+	font-family:serif;
+	font-size:10px;
+	text-align:center;
+}
+
+h2 {
+	color:red;
+	font-family:Tahoma;
+	font-size:10px;
+	text-align:center;
+}
+.left {
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align:right;
+}
+p {
+border: 1px solid green;
+  background-image: url('fQjiIe.jpeg');
+}
